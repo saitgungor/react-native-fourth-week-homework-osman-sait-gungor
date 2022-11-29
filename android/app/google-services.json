@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561343777719",
+    "project_id": "react-native-f59e1",
+    "storage_bucket": "react-native-f59e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561343777719:android:cba924d4b7b1e2df19b632",
+        "android_client_info": {
+          "package_name": "com.week4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561343777719-77au5j8rr7v4uuomcdi7gk14h3l0u2ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeyy8jeEWqHgvQglG1N1kcm6BtqtT4aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561343777719-77au5j8rr7v4uuomcdi7gk14h3l0u2ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
